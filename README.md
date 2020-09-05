@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>Introduction</title>
-</head>
 <body>
 <img src="logo.png" width="200" height="200"/><br/>
 Hi, I'm Ranjan Dhakal. I am a Backend Developer  From Nepal 🇳🇵.<br/><br/>
